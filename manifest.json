@@ -1,0 +1,10 @@
+{
+  "Name": "Trash2Cash",
+  "Author": "Han",
+  "Version": "1.0.0",
+  "Description": "turns the trash bin into an automatic selling point",
+  "UniqueID": "Han.trash2cash",
+  "EntryDll": "Trash2Cash.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
